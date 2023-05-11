@@ -30,9 +30,9 @@ This is a simple movie recommendation system built using Flask.
 
 ## Demo
 
-![Demo](images/demo_1.png)
-![Demo](images/demo_2.png)
-![Demo](images/demo_3.png)
+![Demo](images/demo_1.jpg)
+![Demo](images/demo_2.jpg)
+![Demo](images/demo_3.jpg)
 
 ## Author
 
